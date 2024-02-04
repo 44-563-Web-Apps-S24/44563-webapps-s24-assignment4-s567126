@@ -1,0 +1,40 @@
+.direction{
+    font-size:x-large;
+}
+.direction:hover{
+  color: black;
+  background-color: lightblue;
+}
+.speech{
+    font-size: small;
+    color: black;
+
+}
+.LUKA{
+    color: orangered;
+}
+.POPOVA{
+    color: blue;
+}
+.SMIRNOV{
+    color: green;
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    color: palevioletred;
+
+}
+th{
+    text-align: center;
+}
+td{
+    text-align: left;
+}
+tr:nth-child(odd){
+background-color: bisque;
+}
+th,td{
+   padding-top:  10px;
+   padding-bottom: 20px;
+}
