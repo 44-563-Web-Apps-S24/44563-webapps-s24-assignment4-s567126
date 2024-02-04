@@ -11,16 +11,15 @@
 
 }
 .CHUBUKOV{
-    color: rgb(123, 255, 0);
+    color:blueviolet
 }
 .LOMOV{
-    color: rgb(255, 0, 34);
+    color:brown
 }
-
 table,th,td{
     border: 1px solid black;
     border-collapse: collapse;
-    color: rgb(136, 112, 216);
+    color: palevioletred;
 
 }
 th{
@@ -36,3 +35,4 @@ th,td{
    padding-top:  10px;
    padding-bottom: 20px;
 }
+
