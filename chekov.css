@@ -10,19 +10,17 @@
     color: black;
 
 }
-.LUKA{
-    color: orangered;
+.CHUBUKOV{
+    color: rgb(123, 255, 0);
 }
-.POPOVA{
-    color: blue;
+.LOMOV{
+    color: rgb(255, 0, 34);
 }
-.SMIRNOV{
-    color: green;
-}
+
 table,th,td{
     border: 1px solid black;
     border-collapse: collapse;
-    color: palevioletred;
+    color: rgb(136, 112, 216);
 
 }
 th{
