@@ -35,4 +35,7 @@ th,td{
    padding-top:  10px;
    padding-bottom: 20px;
 }
+.CHUBUKOV:hover{
+    text-shadow:1px 5px 10px rgb(255, 106, 0);
+}
 
