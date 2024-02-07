@@ -36,6 +36,10 @@ th,td{
    padding-bottom: 20px;
 }
 .CHUBUKOV:hover{
-    text-shadow:1px 5px 10px rgb(255, 106, 0);
+    text-shadow:1px 5px 10px rgb(0, 255, 98);
 }
+.LOMOV:hover{
+    text-shadow:1px 5px 10px rgb(128, 0, 255);
+}
+
 
