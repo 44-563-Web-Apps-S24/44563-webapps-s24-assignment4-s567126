@@ -1,12 +1,12 @@
 .direction{
-    font-size:x-large;
+    font-size:x-small;
 }
 .direction:hover{
   color: black;
   background-color: lightblue;
 }
 .speech{
-    font-size: small;
+    font-size:medium;
     color: black;
 
 }
